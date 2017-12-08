@@ -1,0 +1,43 @@
+
+
+body{
+  background-color: #BB99AA;
+  margin:0;
+}
+
+#wrapperDiv{
+  background-color: #003129;
+  height: 900px;
+  width: 900px;
+  border: solid black 1px;
+  margin:auto;
+}
+
+#cnv{
+  background-color: #BAD187;
+  height: 800px;
+  width: 800px;
+}
+
+#buttonDiv{
+  background-color: #EF981A;
+  height: 800px;
+  width: 100px;
+  float:right;
+}
+
+#sliderDiv{
+  background-color: #0185D1;
+  height: 100px;
+  width: 900px;
+  text-align: center;
+}
+
+.sli{
+  display:inline-block;
+}
+
+.but{
+  margin-top: 50px
+  display:inline-block;
+}
